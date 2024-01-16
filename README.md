@@ -1,14 +1,10 @@
 # Yak Robotics Garage -Robotics tinkering for everyone
 
-The [Yak Robotics Garage](https://www.yakcollective.org/projects/yarg.html) is an effort by the Yak Collective to create an open-source rover design capable of actually being deployed on Mars by 2031. We are betting that radically declining launch costs, and increasingly capable infrastructure on Mars and the Moon (such as shared communications relay or charging facilities) could open up the possibility of an open-source space program based on low-cost rovers.
-
-Rover technology is also strongly aligned with terrestrial autonomous robot technology, in applications such as package delivery, search-and-rescue, and elder-care. The inputs required for these applications, such as efficient batteries, advanced motors, and robust software stacks, are increasingly becoming commoditized and low-cost, lowering barriers to entry. We believe open-source pursuit of the demanding engineering capabilities required for space applications will have significant spin-off benefits for these other applications, and allow independent makers and consultants to develop the kinds of skills that are currently limited to members of advanced corporate and government research laboratories.
+The [Yak Robotics Garage](https://www.yakcollective.org/projects/yarg.html) is an informal robotics research group with a relatively mature focus on rovers, with an aspirational goal of deploying open-source rovers on Mars, starting with rovers in living rooms on Earth. In 2024, we are starting to explore other verticals besides rovers. (Read more [here](https://www.yakcollective.org/projects/yarg.html))
 
 ## Join
 
 Build your own Rover or contribute to an ongoing build. We need you.
-
-**GitHub**: Drop us a note in [Discussions](https://github.com/The-Yak-Collective/yakrover/discussions)
 
 **Discord**: Join us on Discord: https://YakCollective.org/join. We meet every Monday night in the #yak-rover Discord channel. 
 
@@ -17,36 +13,19 @@ Build your own Rover or contribute to an ongoing build. We need you.
 * [Roam](https://roamresearch.com/#/app/ArtOfGig/page/QmE-vAzPn) Notes and Planning documentation.
 * [YouTube](https://www.youtube.com/channel/UC9bngPbXMEZ8ivD1GHJ94aw/featured) Demos and recorded meetings.
 
+## Current Research Resources
 
-## Current Builds
+* [Yakasaur](https://github.com/YakRoboticsGarage/yakasaur)
 
-#### YR Infinity and Beyond
-
-Based on the ESA model rover plus a drone
-
-#### YR Stubborn Pursuit of a Path
-
-An exercise in pushing limited resources (compute and electronics) to their limits. 
-
-#### YR Nature is Murder
-
-From-scratch rocker-bogie
-
-#### YR Gradient Ascent
-
-2-wheeler with Jetson Nano
-
-#### YR Abio Flex Wanderer
-
-A spider-bot (joint)
-
-#### YR Wonderful Wandering Growth
-
-Another spider-bot (joint)
-
-#### YR Go and See
-
-A pair of simple PiCars
+<!--
+Machine-vision based robotics navigation (using an LMM in a loop to guide behaviors)
+Blockchains on rovers (Ethereum light node on a low-compute rover)
+Social roverics: community of rovers in a domain
+Hobbyist-friendly rover design
+RISC-V based robotics
+Power electronics and solar power
+Languages for rover operations
+-->
 
 ## Associated Projects
 
