@@ -33,17 +33,17 @@ Languages for rover operations
 
 ## Team
 
-|                                                                                 | Member | GitHub  | Role         |
-|---------------------------------------------------------------------------------|--------|---------|--------------|
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/ic">  | Eric Platon | [@ic](https://github.com/ic) | Coordinator / Build Leader |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgururao"> | Venkatesh G. Rao | [@vgururao](https://github.com/vgururao) | Build Leader |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/tilnow"> | Maier Fenster | [@tilnow](https://github.com/tilnow) | Build Leader |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/anuraj-rp"> | Anuraj R | [@anuraj-rp](https://github.com/anuraj-rp) | Build Leader |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgh"> | Victor Hill | [@vgh](https://github.com/vgh) | Build Leader |
-|  | Jascha |  | Technical Expert |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/rhettg"> | Rhett Garber | [@rhettg](https://github.com/rhettg) | Build Leader |
-|  | Sai Prasanna |  | Build Leader |
-|  | Brian Smith |  | Build Leader |
+|                                                                                 | Member | GitHub  |
+|---------------------------------------------------------------------------------|--------|---------|
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/ic">  | Eric Platon | [@ic](https://github.com/ic) |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgururao"> | Venkatesh G. Rao | [@vgururao](https://github.com/vgururao) |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/tilnow"> | Maier Fenster | [@tilnow](https://github.com/tilnow) |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/anuraj-rp"> | Anuraj R | [@anuraj-rp](https://github.com/anuraj-rp) |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgh"> | Victor Hill | [@vgh](https://github.com/vgh) |
+|  | Jascha |  |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/rhettg"> | Rhett Garber | [@rhettg](https://github.com/rhettg) |
+|  | Sai Prasanna |  |
+|  | Brian Smith |  |
 
 
 
