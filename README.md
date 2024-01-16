@@ -6,7 +6,7 @@ The [Yak Robotics Garage](https://www.yakcollective.org/projects/yarg.html) is a
 
 Build your own Rover or contribute to an ongoing build. We need you.
 
-**Discord**: Join us on Discord: https://YakCollective.org/join. We meet every Monday night in the #yak-rover Discord channel. 
+**Discord**: Join us on Discord: https://YakCollective.org/join. We meet every week for a video chat.
 
 ## Resources
 
