@@ -16,6 +16,7 @@ Build your own Rover or contribute to an ongoing build. We need you.
 ## Current Research Resources
 
 * [Yakasaur](https://github.com/YakRoboticsGarage/yakasaur)
+* [Solar Experiment](./threads/solar.md)
 
 <!--
 Machine-vision based robotics navigation (using an LMM in a loop to guide behaviors)
@@ -30,6 +31,8 @@ Languages for rover operations
 ## Associated Projects
 
 * [iamz1](https://github.com/The-Yak-Collective/iamz1) - Rover interface for discord
+* [Batteries Not Included](https://github.com/rhettg/batteries)
+* [Stubborn Pursuit of a Path](https://github.com/rhettg/stubborn)
 
 ## Team
 
